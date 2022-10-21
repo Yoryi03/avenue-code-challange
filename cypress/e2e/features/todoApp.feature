@@ -1,5 +1,4 @@
 Feature: My Tasks page
-
     Background:
         Given A web browser is at the Todo login page, A user enters the username "yoryi.valdez03@gmail.com", the password "rafael1234@", and clicks on the login button
     Scenario: Top Message in My tasks page
