@@ -33,3 +33,8 @@ Install project dependencies with: npm install
 ## 🚀 Run the demo:
 
 Open the terminal and run: npx Cypress open
+
+## 🚀 Suggested tests that can be implemented to identify defects at an early stage:
+
+Open the terminal and run: npx Cypress open
+
