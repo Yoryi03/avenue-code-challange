@@ -14,4 +14,4 @@ Install project dependencies with: npm init
 
 ## 🚀 Run the demo:
 
-Open the terminal and run: npm run cypress:execution
+Open the terminal and run: npx Cypress open
