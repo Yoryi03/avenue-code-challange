@@ -9,7 +9,6 @@ Given(
     loginPage.submitLogin(username, password);
   }
 );
-
 When(
   "A user is in the todo list home page and clicks on my tasks tab in the nav barr",
   () => {
